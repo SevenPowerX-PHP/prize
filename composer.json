@@ -1,0 +1,13 @@
+{
+    "name": "splaa/prize",
+    "description": "Prize description",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrii Lavryniuk(Samsung A9)",
+            "email": "splaandrey@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -6,7 +6,7 @@
 	 * Time: 15:03
 	 */
 
-	class ObjectPrize implements PrizeInterface
+	class ObjectPrize extends Prize implements PrizeInterface
 	{
 
 		public function getPrize(): PrizeInterface

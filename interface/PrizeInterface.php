@@ -6,9 +6,9 @@
 	 * Time: 13:27
 	 */
 
-	interface Prize
+	interface PrizeInterface
 	{
-		public function getPrize(): Prize;
+		public function getPrize(): PrizeInterface;
 
 		public function toSend();
 

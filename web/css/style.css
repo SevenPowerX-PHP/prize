@@ -1,0 +1,28 @@
+.btn-get-prize {
+	display: inline-block;
+	border: 1px solid #C90A0A;
+	color: #FFF;
+	border-radius: 0px 20px 3px;
+	-webkit-border-radius: 0px 20px 3px;
+	-moz-border-radius: 0px 20px 3px;
+	font-family: Arial Black;
+	width: auto;
+	height: auto;
+	font-size: 32px;
+	padding: 44px 76px;
+	box-shadow: inset 0px 3px 1px 0 #FF5E5E, inset 0px -1px 0px 0 #E30707, inset 0px 0px 0px 1px #FC4949;
+	-moz-box-shadow: inset 0px 3px 1px 0 #FF5E5E, inset 0px -1px 0px 0 #E30707, inset 0px 0px 0px 1px #FC4949;
+	-webkit-box-shadow: inset 0px 3px 1px 0 #FF5E5E, inset 0px -1px 0px 0 #E30707, inset 0px 0px 0px 1px #FC4949;
+	text-shadow: #000 0px 1px #000;
+	background-image: linear-gradient(to top, #FC0000, #FC0D0D);
+	background-color: #FC0000;
+}
+
+.btn-get-prize:hover, .btn-get-prize:active {
+	border: 1px solid #960000;
+	color: #FFF;
+	box-shadow: inset 0px 2px 0px 0 #EB0C0C;
+	-moz-box-shadow: inset 0px 2px 0px 0 #EB0C0C;
+	-webkit-box-shadow: inset 0px 2px 0px 0 #EB0C0C;
+	background-color: #CC0202;
+}
